@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **perdochjakub@gmail.com**
 
-- 📄 Know about my experiences [etu14.github.io.](etu14.github.io.)
+- 📄 Know about my experiences [https://etu14.github.io/Website/](https://etu14.github.io/Website/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
