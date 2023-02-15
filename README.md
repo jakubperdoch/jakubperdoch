@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 <h3 align="center">A student</h3>
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **React,HTML,CSS,PHP,**
+- 💬 Ask me about **React,HTML,CSS,PHP,Js**
 
 - 📫 How to reach me **perdochjakub@gmail.com**
-
-- 📄 Know about my experiences [https://etu14.github.io/Website/](https://etu14.github.io/Website/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
