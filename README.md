@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 <h3 align="center">A Frontend Web developer from Slovakia</h3>
 
-- 🔭 I’m currently working on **Dreamhubb**
+- 🔭 I’m currently working in **Dreamhubb**
 
 - 🌱 I’m currently learning **React.js**
 
