@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **Vue, JS, SCSS/CSS, Bootstrap, Quasar, Tailwind**
+- 💬 Ask me about **Vue, JS, SCSS/CSS, Bootstrap, Quasar, Tailwind, Ionic**
 
 - 📫 How to reach me **perdochjakub@gmail.com**
 
