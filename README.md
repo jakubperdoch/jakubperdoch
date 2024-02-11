@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jakub</h1>
 <h3 align="center">A Frontend Web developer from Slovakia</h3>
 
-- 🔭 I’m currently working at **Dreamhubb**, **Nextio**
+- 🔭 I’m currently **Searching for a job**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Vue, JS, SCSS/CSS, Bootstrap, Quasar, Tailwind, Ionic**
+- 💬 Ask me about **Vue.js, JS, SCSS/CSS, Bootstrap, Quasar, Tailwind, Ionic, React.js**
 
 - 📫 How to reach me **perdochjakub@gmail.com**
 
