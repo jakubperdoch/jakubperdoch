@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Express.js<br><br>💬 Ask me about Vue.js, JS, SCSS/CSS, Quasar, Tailwind, Ionic, React.js<br><br>📫 How to reach me perdochjakub@gmail.com<br>
+🌱 I’m currently learning Express.js<br>
 
 
 ## 🌐 Socials:
