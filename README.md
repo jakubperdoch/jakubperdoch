@@ -25,12 +25,3 @@
   </tr>
 </table>
 
----
-
-<div align="center">
-
-<a href="https://visitcount.itsvg.in"><img src="https://komarev.com/ghpvc/?username=jakubperdoch&icon=0&color=0" /></a>
-
-</div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
